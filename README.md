@@ -14,6 +14,6 @@
 * use **HandBrake** to compress and create a new MP4 file
 * upload the compressed file to YouTube
 
-> **Typically, a 4GB will compress to around 1 GB, which uploads to YouTube much faster.**
+### **Typically, a 4GB file will compress down to 1GB, which uploads to YouTube much faster.**
 
 ***
