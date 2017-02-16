@@ -16,4 +16,7 @@
 
 ### **Typically, a 4GB file will compress down to 1GB, which uploads to YouTube much faster.**
 
+> The compression depends on the video content: does the background change a lot (i.e. your moving)
+> which won't compress a lot, as oppose to a "head shot" video which does compress a lot.
+
 ***
