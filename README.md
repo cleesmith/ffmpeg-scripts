@@ -1,6 +1,6 @@
 # [FFmpeg](https://ffmpeg.org/) scripts
 
-## My process for uploading videos to YouTube:
+## How to upload videos to YouTube:
 
 * shoot video(s) with **GoPro Hero 4 Silver**:
   * for every **17 minutes 44 seconds** it creates a **4GB file**
