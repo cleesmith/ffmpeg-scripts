@@ -1,0 +1,14 @@
+
+My process before uploading to YouTube:
+
+copy from SD card to disk
+
+rename MP4 file to one/two/three .MP4
+
+./cls.one (or .join or .join3)
+
+rename output.mp4 to whatever
+
+use HandBrake to compress file
+
+upload to YouTube
